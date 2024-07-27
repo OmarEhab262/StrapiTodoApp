@@ -27,7 +27,7 @@ This To-Do website is a project built using Strapi for managing user data and AP
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/OmarEhab262/StrapiTodoApp.git
+   git clone https://github.com/OmarEhab262/StrapiTodo.git
    ```
 
 2. **Install Dependencies**
@@ -48,7 +48,7 @@ This To-Do website is a project built using Strapi for managing user data and AP
    Start the React development server:
 
    ```bash
-   npm run dev
+   npm run develop
    ```
 
    Open your browser and navigate to `http://localhost:1337/api` to see the application in action.
